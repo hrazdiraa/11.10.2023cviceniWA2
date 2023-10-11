@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55f9a16a-5c3a-462b-b2ad-79e894d65278" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="55f9a16a-5c3a-462b-b2ad-79e894d65278" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,11 +55,19 @@
       <option name="project" value="LOCAL" />
       <updated>1697004039286</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="pridano logo a navigace- hotovo, dneska speedrun">
+      <created>1697004365614</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697004365614</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="jen zkopirovany privni layout abych mel necoi do zacatku" />
-    <option name="LAST_COMMIT_MESSAGE" value="jen zkopirovany privni layout abych mel necoi do zacatku" />
+    <MESSAGE value="pridano logo a navigace- hotovo, dneska speedrun" />
+    <option name="LAST_COMMIT_MESSAGE" value="pridano logo a navigace- hotovo, dneska speedrun" />
   </component>
 </project>
